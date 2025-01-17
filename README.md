@@ -6,9 +6,8 @@
 -----------
 ## Screenshots
 
-[<img src="https://github.com/user-attachments/assets/d1f24103-ce2e-4753-929b-7edf9911e099" width="265" height="572">](https://github.com/user-attachments/assets/d1f24103-ce2e-4753-929b-7edf9911e099)
-![output-onlinegiftools](https://github.com/user-attachments/assets/d1f24103-ce2e-4753-929b-7edf9911e099)
-
+[<img src="https://github.com/user-attachments/assets/5c997c7c-b18e-4898-8991-ddd94526d795" width="265" height="572">](https://github.com/user-attachments/assets/5c997c7c-b18e-4898-8991-ddd94526d795)
+[<img src="https://github.com/user-attachments/assets/8553b58f-77c0-47b7-8cf3-4f5a07c50462" width="265" height="572">](https://github.com/user-attachments/assets/8553b58f-77c0-47b7-8cf3-4f5a07c50462)
 
 -----------
 

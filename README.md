@@ -1,7 +1,7 @@
 # App Name: 2-hour Singapore Weather Forecast
 
 ## About
-
+The app shows the weather forecast in Singapore with name and forecast with the latitude and longitude of the location in each cards. The app feteches data from an API on the website data.gov.sg where the user are able to filter out the any location using the Search box function that they want to know about the forecast of that specific area in Singapore.
 
 -----------
 ## Screenshots

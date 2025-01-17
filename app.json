@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "C346_L10CatBreedData",
-    "slug": "C346_L10CatBreedData",
+    "name": "C346_L10WeatherData",
+    "slug": "C346_L10WeatherData",
+    "description": "Singapore 2-hour Weather Forecast fetching data from API data.gov.sg",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
